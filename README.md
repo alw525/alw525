@@ -11,6 +11,7 @@ Senior data scientist and applied ML researcher. I build career intelligence sys
 ### What I work on
 
 Production ML systems for workforce and career intelligence. Mixed-methods research that combines longitudinal survey analysis, NLP pipelines, and behavioral segmentation. Translation between technical and non-technical audiences, often as a function of the work itself.
+Most of my production work lives in private institutional repositories under data-use agreements. The public repos here document the architecture and methodology behind those systems.
 
 ### Featured projects
 
