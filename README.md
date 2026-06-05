@@ -5,7 +5,7 @@ Senior data scientist and applied ML researcher. I build career intelligence sys
 ### Currently
 
 - Senior Data Scientist and Assistant Dean at NYU's Graduate School of Arts and Science
-- PhD in Higher Education with a specialization in machine learning and UX (NYU, May 2026)
+- PhD in Administration, Leadership & Technology with a specialization in machine learning and UX (NYU, May 2026)
 - Author, *How to Thrive Beyond Academia* (Cambridge University Press, 2024)
 
 ### What I work on
