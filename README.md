@@ -16,7 +16,7 @@ Most of my production work lives in private institutional repositories under dat
 
 ### Featured projects
 
-**[Meridian](https://github.com/alw525/meridian):** A career intelligence platform serving 5,000+ users with a 30% reduction in advising cycle time. Ensemble classification, NLP sentiment with a custom sarcasm-aware lexicon, GPT-4 integration with output validation, real-time labor market signal via the Adzuna API. Live at [gsasmeridian.com](https://gsasmeridian.com).
+**[Meridian](https://github.com/alw525/meridian):** A career intelligence platform serving 5,000+ users with a 30% reduction in advising cycle time. Ensemble classification, NLP sentiment with a custom sarcasm-aware lexicon, GPT-4 integration with output validation, real-time labor market signal via the Adzuna API. 
 
 **CV-to-Resume Conversion Tool:** A Streamlit and AWS application that translates 200+ academic credentials into industry-aligned language. 5,000+ users.
 
